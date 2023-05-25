@@ -46,6 +46,7 @@ h1 {
   display: flex;
   align-items: center;
   justify-content: center;
+  fill: rgba(249, 211, 180, 1) 0%;
 
   padding: 1.5rem 1.75rem;
   border-radius: 3rem;
